@@ -7,10 +7,11 @@ import Radio from "./components/Radio.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <div className="bg-blue-950 pt-4 min-h-screen text-white">
+    <div className="bg-blue-950 pt-4 h-[250vh] text-white">
       <Navbar />
       <Blog />
       <Radio />
+      <Blog />
     </div>
   </StrictMode>
 );

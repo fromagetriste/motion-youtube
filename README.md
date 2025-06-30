@@ -1,10 +1,8 @@
 To install Motion :
 
-npm install motion
-
-import { motion } from "motion/react"
-
-add motion in front of your HTML elements, like :
+npm install motion  
+import { motion } from "motion/react"  
+add motion in front of your HTML elements, like :  
 
 <motion.div  
 className="title"  
@@ -14,4 +12,8 @@ transition={{ duration: 1 }}>
 Your text goes here  
 </motion.div>
 
-![alt text](public/motion-logo.jpg)
+![alt text](public/motion-logo.jpg)  
+
+
+https://motion.dev/docs/react-animation
+
