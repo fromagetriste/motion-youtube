@@ -2,9 +2,9 @@ To install Motion :
 
 npm install motion
 
-Then, import { motion } from "motion/react"
+import { motion } from "motion/react"
 
-Then, add motion in front of your HTML elements, like :
+add motion in front of your HTML elements, like :
 
 <motion.div  
 className="title"  
