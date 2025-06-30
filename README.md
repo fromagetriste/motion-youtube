@@ -15,5 +15,8 @@ Your text goes here
 ![alt text](public/motion-logo.jpg)  
 
 
-https://motion.dev/docs/react-animation
+https://motion.dev/docs/react-animation  
 
+
+To see the project deployed :  
+https://motion-youtube.netlify.app/
